@@ -1,7 +1,7 @@
 var prices = [
     {
-	name: 'Item',
-	price: 1.99,
+	name: 'Bacon Cheeseburger',
+	price: 5.99,
     },
     {
 	name: 'Item',
